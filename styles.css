@@ -2,10 +2,11 @@ body {
   background-image: url("forest-background-1536x1024.jpg");
 }
 div {
-  margin: auto;
-  width: 1000px;
+  width: 1250px;
   border: 30px black;
   padding: 50px;
   margin: 20px;
   background-color: white;
+  margin: auto;
+  opacity: 0.95;
 }
