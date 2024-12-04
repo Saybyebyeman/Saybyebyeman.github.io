@@ -1,3 +1,11 @@
 body {
   background-image: url("forest-background-1536x1024.jpg");
 }
+div {
+  margin: auto;
+  width: 1000px;
+  border: 30px black;
+  padding: 50px;
+  margin: 20px;
+  background-color: white;
+}
